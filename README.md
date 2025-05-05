@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *PreWork*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kripa Paudel**
 
-**Name of your app** is an app that... [TODO] 
+**Prework** is an app that... allows user to see the Name, University and their Job title and to submit the information. On submitting the screen color changes. 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -24,6 +24,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had trouble locating some buttons while making the app in XCode. 
 
 ## License
 
